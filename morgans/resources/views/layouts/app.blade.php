@@ -11,18 +11,18 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="apple-touch-icon" href="apple-touch-icon.png">
-	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/normalize.css">
-	<link rel="stylesheet" href="css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/icomoon.css">
-	<link rel="stylesheet" href="css/transitions.css">
-	<link rel="stylesheet" href="css/owl.carousel.css">
-	<link rel="stylesheet" href="css/prettyPhoto.css">
-	<link rel="stylesheet" href="css/owl.theme.css">
-	<link rel="stylesheet" href="css/main.css">
-	<link rel="stylesheet" href="css/color.css">
-	<link rel="stylesheet" href="css/responsive.css">
-	<script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+	<link rel="stylesheet" href="{{asset('/assets/css/bootstrap.min.css')}}">
+	<link rel="stylesheet" href="{{asset('/assets/css/normalize.css')}}">
+	<link rel="stylesheet" href="{{asset('/assets/css/font-awesome.min.css')}}">
+	<link rel="stylesheet" href="{{asset('/assets/css/icomoon.css')}}">
+	<link rel="stylesheet" href="{{asset('/assets/css/transitions.css')}}">
+	<link rel="stylesheet" href="{{asset('/assets/css/owl.carousel.css')}}">
+	<link rel="stylesheet" href="{{asset('/assets/css/prettyPhoto.css')}}">
+	<link rel="stylesheet" href="{{asset('/assets/css/owl.theme.css')}}">
+	<link rel="stylesheet" href="{{asset('/assets/css/main.css')}}">
+	<link rel="stylesheet" href="{{asset('/assets/css/color.css')}}">
+	<link rel="stylesheet" href="{{asset('/assets/css/responsive.css')}}">
+	<script src="{{asset('/assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js')}}"></script>
 </head>
 
 <body class="tg-home tg-homeversion">
@@ -42,24 +42,20 @@
 					<div class="row">
 						<div class="col-sm-12 col-xs-12">
 							<ul class="tg-topcontactinfo">
-								<li>
-									<i class="fa fa-phone"></i>
-									<span>+1 2535 56854</span>
-								</li>
+								
 								<li>
 									<i class="fa fa-envelope-o"></i>
-									<span><a href="mailto:hello@domain.com ">hello@domain.com </a></span>
+									<span><a href="mailto:enquiries@morgansconsulting.ng">enquiries@morgansconsulting.ng </a></span>
 								</li>
 								<li>
 									<i class="fa fa-map-marker"></i>
-									<address>Birmingham, England, B3 2EW</address>
+									<address>2nd Floor, 1 Adeola Adeoye Street,Toyin Street,Ikeja, Lagos Nigeria</address>
 								</li>
 							</ul>
 							<nav class="tg-addnav tg-themecolor">
 								<ul>
-									<li><a href="#">careers</a></li>
+									<li><a href="https://portrec.co.uk">careers</a></li>
 									<li><a href="#">Contact</a></li>
-									<li><a href="#">terms &amp; contions</a></li>
 								</ul>
 							</nav>
 						</div>
@@ -71,7 +67,7 @@
 					<div class="row">
 						<div class="col-xs-12">
 							<strong class="tg-logo">
-								<a href="index.html"><img src="images/logo.png" alt="image description"></a>
+								<a href="index.html"><img src="{{asset('/assets/images/logo.png')}}" alt="image description"></a>
 							</strong>
 							<nav id="tg-nav" class="tg-nav">
 								<div class="navbar-header">
@@ -211,17 +207,7 @@
 			</div>
 		</header>
 
-
-
-
-
-
-
-
-
-
-
-
+@yield('content')
         <footer id="tg-footer" class="tg-footer tg-haslayout">
 			<div class="tg-footertopbar tg-bglight tg-bgimage tg-shadow">
 				<div class="container">
@@ -261,18 +247,18 @@
 				<div class="container">
 					<div class="row">
 						<div class="tg-footerwidgets">
-							<div class="col-md-3 col-sm-6 col-xs-6">
+							<div class="col-md-4 col-sm-6 col-xs-6">
 								<div class="tg-widget tg-widgetinfo">
-									<div id="tg-footerlocation-map" class="tg-footerlocation-map"></div>
+									<div><img src="{{asset('/assets/images/logo6.png')}}" alt="image description"></div> <br>
 									<h4>Head office</h4>
 									<ul class="tg-contactinfo">
 										<li>
 											<i class="fa fa-home"></i>
-											<address>123 Eccles Old Road, Salford Road, East London, Uk, M6 7AF</address>
+											<address>2nd Floor, 1 Adeola Adeoye Street,Toyin Street,Ikeja, Lagos Nigeria</address>
 										</li>
 										<li>
 											<i class="fa fa-envelope-o"></i>
-											<span><a href="mailto:&#115;&#117;&#112;&#112;&#111;&#114;&#116;&#064;&#121;&#111;&#117;&#114;&#100;&#111;&#109;&#097;&#105;&#110;&#046;&#099;&#111;&#109;">&#115;&#117;&#112;&#112;&#111;&#114;&#116;&#064;&#121;&#111;&#117;&#114;&#100;&#111;&#109;&#097;&#105;&#110;&#046;&#099;&#111;&#109;</a></span>
+											<span><a href="mailto:enquiries@morgansconsulting.ng">enquiries@morgansconsulting.ng</a></span>
 										</li>
 										<li>
 											<i class="fa fa-phone"></i>
@@ -281,7 +267,7 @@
 									</ul>
 								</div>
 							</div>
-							<div class="col-md-3 col-sm-6 col-xs-6">
+							<div class="col-md-4 col-sm-6 col-xs-6">
 								<div class="tg-widget tg-widgetusefulllinks">
 									<div class="tg-widgettitle"><h3>useful links</h3></div>
 									<ul>
@@ -293,56 +279,7 @@
 									</ul>
 								</div>
 							</div>
-							<div class="col-md-3 col-sm-6 col-xs-6">
-								<div class="tg-widget tg-widgetrecentnews">
-									<div class="tg-widgettitle"><h3>Recent News</h3></div>
-									<ul>
-										<li>
-											<time datetime=""><a href="#"><span>04</span> Feb</a></time>
-											<div class="tg-posdata">
-												<h4><a href="#">Claritas dynamicus qui seqauri mutatem consum.</a></h4>
-												<ul class="tg-postmetadata">
-													<li>
-														<a href="#">
-															<i class="fa fa-clock-o"></i>
-															<span>24 Min Ago</span>
-														</a>
-													</li>
-												</ul>
-											</div>
-										</li>
-										<li>
-											<time datetime=""><a href="#"><span>04</span> Feb</a></time>
-											<div class="tg-posdata">
-												<h4><a href="#">Claritas dynamicus qui seqauri mutatem consum.</a></h4>
-												<ul class="tg-postmetadata">
-													<li>
-														<a href="#">
-															<i class="fa fa-clock-o"></i>
-															<span>24 Min Ago</span>
-														</a>
-													</li>
-												</ul>
-											</div>
-										</li>
-										<li>
-											<time datetime=""><a href="#"><span>04</span> Feb</a></time>
-											<div class="tg-posdata">
-												<h4><a href="#">Claritas dynamicus qui seqauri mutatem consum.</a></h4>
-												<ul class="tg-postmetadata">
-													<li>
-														<a href="#">
-															<i class="fa fa-clock-o"></i>
-															<span>24 Min Ago</span>
-														</a>
-													</li>
-												</ul>
-											</div>
-										</li>
-									</ul>
-								</div>
-							</div>
-							<div class="col-md-3 col-sm-6 col-xs-6">
+							<div class="col-md-4 col-sm-6 col-xs-6">
 								<div class="tg-widget tg-widgetflicker">
 									<div class="tg-widgettitle"><h3>Flickr Widget</h3></div>
 									<ul>
@@ -363,7 +300,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12 col-xs-12">
-							<span class="tg-copyright">&copy; 2016 | All Rights Reserved</span>
+							<span class="tg-copyright">&copy; {{date('Y')}} | All Rights Reserved</span>
 							<ul class="tg-socialicons">
 								<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
 								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -371,7 +308,6 @@
 								<li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
 								<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
 							</ul>
-							<strong class="tg-logo"><a href="#"><img src="images/flogo.png" alt="image description"></a></strong>
 						</div>
 					</div>
 				</div>
@@ -381,18 +317,18 @@
 	<!--************************************
 			Wrapper End
 	*************************************-->
-	<script src="js/vendor/jquery-library.js"></script>
-	<script src="js/vendor/bootstrap.min.js"></script>
+	<script src="{{asset('/assets/js/vendor/jquery-library.js')}}"></script>
+	<script src="{{asset('/assets/js/vendor/bootstrap.min.js')}}"></script>
 	<script src="http://maps.google.com/maps/api/js?key=AIzaSyCR-KEWAVCn52mSdeVeTqZjtqbmVJyfSus&amp;language=en"></script>
-	<script src="js/owl.carousel.min.js"></script>
-	<script src="js/jquery.svgInject.js"></script>
-	<script src="js/isotope.pkgd.js"></script>
-	<script src="js/chartsloader.js"></script>
-	<script src="js/prettyPhoto.js"></script>
-	<script src="js/parallax.js"></script>
-	<script src="js/countTo.js"></script>
-	<script src="js/appear.js"></script>
-	<script src="js/gmap3.js"></script>
-	<script src="js/main.js"></script>
+	<script src="{{asset('/assets/js/owl.carousel.min.js')}}"></script>
+	<script src="{{asset('/assets/js/jquery.svgInject.js')}}"></script>
+	<script src="{{asset('/assets/js/isotope.pkgd.js')}}"></script>
+	<script src="{{asset('/assets/js/chartsloader.js')}}"></script>
+	<script src="{{asset('/assets/js/prettyPhoto.js')}}"></script>
+	<script src="{{asset('/assets/js/parallax.js')}}"></script>
+	<script src="{{asset('/assets/js/countTo.js')}}"></script>
+	<script src="{{asset('/assets/js/appear.js')}}"></script>
+	<script src="{{asset('/assets/js/gmap3.js')}}"></script>
+	<script src="{{asset('/assets/js/main.js')}}"></script>
 </body>
 </html>
