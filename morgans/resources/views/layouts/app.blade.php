@@ -173,17 +173,17 @@
 								<div class="tg-widget tg-widgetusefulllinks">
 									<div class="tg-widgettitle"><h3>useful links</h3></div>
 									<ul>
-										<li><a href="#">Wealth Planning</a></li>
-										<li><a href="#">Investment Management</a></li>
-										<li><a href="#">Year-End Tax Planning</a></li>
-										<li><a href="#">Tax Advisory Services</a></li>
-										<li><a href="#">Small Business Taxes</a></li>
+										<li><a href="#">Home</a></li>
+										<li><a href="#">About Us</a></li>
+										<li><a href="#">Services</a></li>
+										<li><a href="#">Clients</a></li>
+										<li><a href="#">Contact Us</a></li>
 									</ul>
 								</div>
 							</div>
 							<div class="col-md-4 col-sm-6 col-xs-6">
 								<div class="tg-widget tg-widgetflicker">
-									<div class="tg-widgettitle"><h3>Flickr Widget</h3></div>
+									<div class="tg-widgettitle"><h3>Social Widget</h3></div>
 									<ul>
 										<li><figure><a href="#"><img src="images/thumbs/img-03.jpg" alt="image description"></a></figure></li>
 										<li><figure><a href="#"><img src="images/thumbs/img-04.jpg" alt="image description"></a></figure></li>
