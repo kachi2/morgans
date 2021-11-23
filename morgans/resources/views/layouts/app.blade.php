@@ -185,7 +185,7 @@
 								<div class="tg-widget tg-widgetflicker">
 									<div class="tg-widgettitle"><h3>Social Widget</h3></div>
 									<ul>
-										<li><figure><a href="#"><img src="images/thumbs/img-03.jpg" alt="image description"></a></figure></li>
+										<li><figure><a href="#"><img src="{{asset('/assets/images/thumbs/img-03.jpg')}}" alt="image description"></a></figure></li>
 										<li><figure><a href="#"><img src="images/thumbs/img-04.jpg" alt="image description"></a></figure></li>
 										<li><figure><a href="#"><img src="images/thumbs/img-05.jpg" alt="image description"></a></figure></li>
 										<li><figure><a href="#"><img src="images/thumbs/img-06.jpg" alt="image description"></a></figure></li>
