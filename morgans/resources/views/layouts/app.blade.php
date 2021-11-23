@@ -81,23 +81,23 @@
 								</div>
 								<div id="tg-navigation" class="collapse navbar-collapse tg-navigation">
 									<ul>
-										<li class="tg-active tg-hasdropdown">
+										<li class="tg-active">
 											<a href="{{route('index')}}">Home</a>
 										</li>
-										<li class="menu-item-has-mega-menu">
+										<li class="">
 											<a href="#">About Us</a>
 										</li>
-										<li class="tg-hasdropdown">
+										<li class="">
 											<a href="#">Services</a>
 										</li>
-										<li class="tg-hasdropdown">
+										<li class="">
 											<a href="#">Clients</a>
 										</li>
-										<li class="tg-hasdropdown">
+										<li class="">
 											<a href="#">Our Team</a>
 										</li>
 										<li><a href="#">Contact Us</a></li>
-										<li class="tg-hasdropdown">
+										<li class="">
 											<a href="#">News</a>
 										</li>
 									</ul>
