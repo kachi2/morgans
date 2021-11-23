@@ -302,7 +302,6 @@ General Consulting Competitive Advantage Solutions</a></h4>
 									<q>Working with The Morgans Consortium was excellent. Every meeting was very productive and insightful. I would even reach out with questions/concerns outside of meeting times and the team at TMC was very quick to respond and resolve issues. The company CEO even responded to personal inquiries and helped me get connected with the best team members. Overall the Company’s team is very professional and I am glad we chose to work with TMC.</q>
 								</blockquote>
 								<div class="tg-clientinfo">
-									<figure><a href="#"><img src="images/thumbs/img-01.jpg" alt="image description"></a></figure>
 									<div class="tg-namecountery">
 										<h4><a href="#">Deputy CEO</a></h4>
 										<span>State Bank of India UK</span>
