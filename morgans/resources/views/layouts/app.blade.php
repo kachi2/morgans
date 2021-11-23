@@ -91,7 +91,7 @@
 											<a href="#">Services</a>
 										</li>
 										<li class="tg-hasdropdown">
-											<a href="#">Projects</a>
+											<a href="#">Clients</a>
 										</li>
 										<li class="tg-hasdropdown">
 											<a href="#">Our Team</a>
