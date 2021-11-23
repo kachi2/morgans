@@ -67,7 +67,7 @@
 					<div class="row">
 						<div class="col-xs-12">
 							<strong class="tg-logo" style="margin:30px">
-								<a href="index.html"><img   src="{{asset('/assets/images/logo.png')}}" alt="logo"></a>
+								<a href="{{route('index')}}"><img   src="{{asset('/assets/images/logos.png')}}" alt="logo"></a>
 							</strong>
 							<nav id="tg-nav" class="tg-nav">
 								<div class="navbar-header">
@@ -81,15 +81,10 @@
 								<div id="tg-navigation" class="collapse navbar-collapse tg-navigation">
 									<ul>
 										<li class="tg-active tg-hasdropdown">
-											<a href="index.html">Main</a>
-											<ul>
-												<li class="tg-active"><a href="index.html">Home v1</a></li>
-												<li><a href="index-v2.html">Home v2</a></li>
-												<li><a href="index-v3.html">Home v3</a></li>
-											</ul>
+											<a href="index.html">Home</a>
 										</li>
 										<li class="menu-item-has-mega-menu">
-											<a href="aboutus.html">About</a>
+											<a href="aboutus.html">About Us</a>
 										</li>
 										<li class="tg-hasdropdown">
 											<a href="services.html">Services</a>
@@ -98,11 +93,11 @@
 											<a href="projects.html">Projects</a>
 										</li>
 										<li class="tg-hasdropdown">
-											<a href="team.html">team</a>
+											<a href="team.html">Our Team</a>
 										</li>
-										<li><a href="gallery.html">gallery</a></li>
+										<li><a href="gallery.html">Contact Us</a></li>
 										<li class="tg-hasdropdown">
-											<a href="news-list.html">news</a>
+											<a href="news-list.html">News</a>
 										</li>
 									</ul>
 								</div>
