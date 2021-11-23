@@ -96,7 +96,7 @@
 										<li class="tg-hasdropdown">
 											<a href="#">Our Team</a>
 										</li>
-										<li><a href="gallery.html">Contact Us</a></li>
+										<li><a href="#">Contact Us</a></li>
 										<li class="tg-hasdropdown">
 											<a href="#">News</a>
 										</li>
