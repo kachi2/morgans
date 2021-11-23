@@ -41,7 +41,7 @@
 			<div class="tg-topbar tg-bglight tg-haslayout">
 				<div class="container">
 					<div class="row">
-						<div class="col-sm-12 col-xs-12">
+						<div class=" hidden-xs hidden-sm">
 							<ul class="tg-topcontactinfo">
 								
 								<li>
@@ -84,11 +84,29 @@
 										<li class="tg-active">
 											<a href="{{route('index')}}">Home</a>
 										</li>
-										<li class="">
+										<li class="tg-hasdropdown">
 											<a href="#">About Us</a>
+											<ul> 
+												<li><a href="#">Company Overview</a></li>
+												<li><a href="#">CLocation</a></li>
+												<li><a href="#">CPrivacy & Policy</a></li>
+												<li><a href="#">COur Team</a></li>
+
+											</ul>
 										</li>
-										<li class="">
+										<li class="tg-hasdropdown">
 											<a href="#">Services</a>
+											<ul>
+												<li><a href="services.html">Regulatory Governance, Risk , Compliance (GRC) and Financial Crime Prevention Advisory</a></li>
+												<li><a href="services-v2.html">Financial Accounting, Audit & Tax Advisory</a></li>
+												<li><a href="services.html">Regulatory Authorization and Approval Advisory</a></li>
+												<li><a href="services-v2.html">Documentation – Manuals</a></li>
+											
+												<li><a href="services.html">Outsourcing</a></li>
+												<li><a href="services-v2.html">TMC Academy</a></li>
+												<li><a href="services.html">Managed Shared Services and Solution Delivery</a></li>
+											
+											</ul>
 										</li>
 										<li class="">
 											<a href="#">Clients</a>

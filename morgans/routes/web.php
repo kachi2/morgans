@@ -15,6 +15,7 @@ use App\Http\Controllers\PageController;
 */
 
 Route::get('/', [PageController::class, 'HomePage'])->name('index');
+Route::get('/services/tmcacademy', [PageController::class, 'Academy'])->name('tmc-academy');
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
