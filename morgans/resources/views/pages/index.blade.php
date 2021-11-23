@@ -296,89 +296,29 @@ General Consulting Competitive Advantage Solutions</a></h4>
 							</div>
 						</div>
 						<div id="tg-testimonialsslider" class="tg-testimonialsslider tg-clientfeedback">
+							
 							<div class="item tg-testimonial">
 								<blockquote>
-									<q>Tempor incididunt ut labore et dolore magna aliqua enim adiat minim sitaie veniam quis nostrud exercitation ullamco laboris nisi ut aliquip.</q>
+									<q>Working with The Morgans Consortium was excellent. Every meeting was very productive and insightful. I would even reach out with questions/concerns outside of meeting times and the team at TMC was very quick to respond and resolve issues. The company CEO even responded to personal inquiries and helped me get connected with the best team members. Overall the Company’s team is very professional and I am glad we chose to work with TMC.</q>
 								</blockquote>
 								<div class="tg-clientinfo">
 									<figure><a href="#"><img src="images/thumbs/img-01.jpg" alt="image description"></a></figure>
 									<div class="tg-namecountery">
-										<h4><a href="#">Christi jenny</a></h4>
-										<span>Manchester</span>
+										<h4><a href="#">Deputy CEO</a></h4>
+										<span>State Bank of India UK</span>
 									</div>
 								</div>
 							</div>
 							<div class="item tg-testimonial">
 								<blockquote>
-									<q>Tempor incididunt ut labore et dolore magna aliqua enim adiat minim sitaie veniam quis nostrud exercitation ullamco laboris nisi ut aliquip.</q>
+									<q>The Morgans Consortium provides industry expertise related to Compliance data and technology solutions used by NHS clients. We find that their deep and rich expertise can be easily leveraged by clients looking for practical, executable solutions, especially in the financial services sector..</q>
 								</blockquote>
 								<div class="tg-clientinfo">
-									<figure><a href="#"><img src="images/thumbs/img-02.jpg" alt="image description"></a></figure>
 									<div class="tg-namecountery">
-										<h4><a href="#">Milford smith</a></h4>
-										<span>Manchester</span>
+										<h4><a href="#">Project Manager</a></h4>
+										<span>NHS</span>
 									</div>
 								</div>
-							</div>
-							<div class="item tg-testimonial">
-								<blockquote>
-									<q>Tempor incididunt ut labore et dolore magna aliqua enim adiat minim sitaie veniam quis nostrud exercitation ullamco laboris nisi ut aliquip.</q>
-								</blockquote>
-								<div class="tg-clientinfo">
-									<figure><a href="#"><img src="images/thumbs/img-01.jpg" alt="image description"></a></figure>
-									<div class="tg-namecountery">
-										<h4><a href="#">Christi jenny</a></h4>
-										<span>Manchester</span>
-									</div>
-								</div>
-							</div>
-							<div class="item tg-testimonial">
-								<blockquote>
-									<q>Tempor incididunt ut labore et dolore magna aliqua enim adiat minim sitaie veniam quis nostrud exercitation ullamco laboris nisi ut aliquip.</q>
-								</blockquote>
-								<div class="tg-clientinfo">
-									<figure><a href="#"><img src="images/thumbs/img-02.jpg" alt="image description"></a></figure>
-									<div class="tg-namecountery">
-										<h4><a href="#">Milford smith</a></h4>
-										<span>Manchester</span>
-									</div>
-								</div>
-							</div>
-							<div class="item tg-testimonial">
-								<blockquote>
-									<q>Tempor incididunt ut labore et dolore magna aliqua enim adiat minim sitaie veniam quis nostrud exercitation ullamco laboris nisi ut aliquip.</q>
-								</blockquote>
-								<div class="tg-clientinfo">
-									<figure><a href="#"><img src="images/thumbs/img-01.jpg" alt="image description"></a></figure>
-									<div class="tg-namecountery">
-										<h4><a href="#">Christi jenny</a></h4>
-										<span>Manchester</span>
-									</div>
-								</div>
-							</div>
-							<div class="item tg-testimonial">
-								<blockquote>
-									<q>Tempor incididunt ut labore et dolore magna aliqua enim adiat minim sitaie veniam quis nostrud exercitation ullamco laboris nisi ut aliquip.</q>
-								</blockquote>
-								<div class="tg-clientinfo">
-									<figure><a href="#"><img src="images/thumbs/img-02.jpg" alt="image description"></a></figure>
-									<div class="tg-namecountery">
-										<h4><a href="#">Milford smith</a></h4>
-										<span>Manchester</span>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-			<section class="tg-main-section tg-haslayout tg-parallax-window" data-appear-top-offset="600" data-parallax="scroll" data-image-src="images/parallax/bgparallax-02.jpg">
-				<div class="container">
-					<div class="row">
-						<div class="col-sm-12 col-xs-12">
-							<div class="tg-getadvice">
-								<a class="tg-btn" href="#"><span>Get Advice</span></a>
-								<p>Contact us for information or any queries related to <strong>financial investments</strong></p>
 							</div>
 						</div>
 					</div>
