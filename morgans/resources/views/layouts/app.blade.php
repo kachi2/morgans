@@ -87,26 +87,25 @@
 										<li class="tg-hasdropdown">
 											<a href="#">About Us</a>
 											<ul> 
-												<li><a href="#">Company Overview</a></li>
-												<li><a href="#">CLocation</a></li>
-												<li><a href="#">CPrivacy & Policy</a></li>
-												<li><a href="#">COur Team</a></li>
+											<li><a href="{{route('the.company')}}">The Company</a></li>
+												<li><a href="{{route('location')}}">Location</a></li>
+												<li><a href="{{route('privacy')}}">Privacy Policy</a></li>
+												<li><a href="{{route('team')}}">Our Team</a></li>
 
 											</ul>
 										</li>
 										<li class="tg-hasdropdown">
 											<a href="#">Services</a>
 											<ul>
-												<li><a href="services.html">Regulatory Governance, Risk , Compliance (GRC) and Financial Crime Prevention Advisory</a></li>
-												<li><a href="services-v2.html">Financial Accounting, Audit & Tax Advisory</a></li>
-												<li><a href="services.html">Regulatory Authorization and Approval Advisory</a></li>
-												<li><a href="services-v2.html">Documentation – Manuals</a></li>
-											
-												<li><a href="services.html">Outsourcing</a></li>
-												<li><a href="services-v2.html">TMC Academy</a></li>
-												<li><a href="services.html">Managed Shared Services and Solution Delivery</a></li>
-											
-											</ul>
+												<li><a href="{{route('risk.regulations')}}">Regulatory Governance , Risk , Compliance (GRC) and Financial Crime Prevention</a></li>
+												<li><a href="{{route('vetting.screening')}}">Background Check, Vetting & Screening</a></li>
+												<li><a href="{{route('tax.advisory')}}">Financial Accounting, Audit & Tax Advisory</a></li>
+												<li><a href="{{route('outsourcing')}}">Outsourcing</a></li>
+												<li><a href="{{route('tmc.academy')}}">TMC Academy</a></li>
+												<li><a href="{{route('solution.delivery')}}">Managed Shared Services and Solution Delivery</a></li>
+												<li><a href="{{route('fca.authorization')}}">Regulatory Authorization and Approval Advisory</a></li>
+												<li><a href="{{route('documentation.manuals')}}">Documentation – Manuals</a></li>
+												</ul>
 										</li>
 										<li class="">
 											<a href="#">Clients</a>

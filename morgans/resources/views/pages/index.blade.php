@@ -290,9 +290,6 @@ General Consulting Competitive Advantage Solutions</a></h4>
 									<h2>thoughts of our</h2>
 									<h3>Satisfied customers</h3>
 								</div>
-								<div class="tg-description">
-									<p>Consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-								</div>
 							</div>
 						</div>
 						<div id="tg-testimonialsslider" class="tg-testimonialsslider tg-clientfeedback">

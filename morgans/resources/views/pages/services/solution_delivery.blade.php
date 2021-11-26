@@ -40,13 +40,25 @@
 											<div class="tg-whatwedo">
 												<div class="tg-sectionhead">
 													<div class="tg-sectiontitle">
-														<h2 style="font-weight:bold; color:#000">TMC Academy</h2>	
+														<h2 style="font-weight:bold; color:#000">Managed Shared Services and Solution Delivery</h2>	
 													</div>
 													<div class="tg-description" style="text-align:justify">
 														<p style="text-align:justify"> 
-														We offer masterclass series and introductory training courses to employees and professionals in order to help them acquire a basic understanding of the benefits, functions, and impacts of their specialized roles within an organization. This training provides a comprehensive business analysis process as it is applied throughout a project as well as the pre-project activities which comprise of strategy analysis. Employees are able to learn how a business analyst supports the project throughout the solution development cycle. This process entails defining business needs and solution scope which are essential in validating that requirements have been met in the testing phase and ensuring that the solution continues to provide value after implementation.
+														As an experienced consultancy company in the provision of Managed Services, we offer tailor-made solutions based on your business needs. Our solutions offer a transparent delivery model which enables companies to predict, plan and control quality, cost and performance. Our team of professionals will help your company in careful management of the transition of your current solutions into a TMC managed service with zero impact on your business. Some of the managed services we offer include:
 
-														In accordance with FCA regulations, staff and management training on compliance is a key requirement. TMC provides you with access to bespoke classroom training and workshops. We offer high-level and in-depth training experience which covers changes in regulation, or trending issues such as AML, culture and ethics. To book a training session or for more details kindly contact us today.</div>
+														<br><span style="font-weight:bold">Professional staffing as a service </span><br>
+														TMC helps you in maximizing the potential of all staff resources as well as to measure their progress in order to find the right cultural fit in a supplier. This will position your company in a pole position of meeting both short- and long-term business objectives.
+
+													<br>	<span style="font-weight:bold">IT infrastructure </span>
+														We remove the burden of provisioning IT systems or the whole IT infrastructure by outsourcing the management to us. We are here to look after your IT assets, procurements and logistics related implementation and best executions.
+														<ul style="padding-left:20px">
+														<li style="list-style:circle">Forensic Regulatory Risk & Compliance Remediation</li>
+														<li style="list-style:circle">Financial Crime KYC Remediation </li>
+														<li style="list-style:circle">AML, Transaction Monitoring Solution Managed Services </li>
+														<li style="list-style:circle">Cyber security solution</li>
+														<li style="list-style:circle">Cloud Support</li>
+														</ul>
+													</p></div>
 												</div>
 											</div>
 

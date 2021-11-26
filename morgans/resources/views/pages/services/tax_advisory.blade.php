@@ -12,7 +12,7 @@
 							</div>
 							<ol class="tg-breadcrumb">
 								<li><a href="#"><i class="fa fa-home"></i></a></li>
-								<li class="tg-active">TMC Academy</li>
+								<li class="tg-active">Financial Accounting, Audit & Tax Advisory</li>
 							</ol>
 						</div>
 					</div>
@@ -40,17 +40,31 @@
 											<div class="tg-whatwedo">
 												<div class="tg-sectionhead">
 													<div class="tg-sectiontitle">
-														<h2 style="font-weight:bold; color:#000">TMC Academy</h2>	
+														<h2 style="font-weight:bold; color:#000">Financial Accounting, Audit & Tax Advisory</h2>	
 													</div>
 													<div class="tg-description" style="text-align:justify">
 														<p style="text-align:justify"> 
-														We offer masterclass series and introductory training courses to employees and professionals in order to help them acquire a basic understanding of the benefits, functions, and impacts of their specialized roles within an organization. This training provides a comprehensive business analysis process as it is applied throughout a project as well as the pre-project activities which comprise of strategy analysis. Employees are able to learn how a business analyst supports the project throughout the solution development cycle. This process entails defining business needs and solution scope which are essential in validating that requirements have been met in the testing phase and ensuring that the solution continues to provide value after implementation.
-
-														In accordance with FCA regulations, staff and management training on compliance is a key requirement. TMC provides you with access to bespoke classroom training and workshops. We offer high-level and in-depth training experience which covers changes in regulation, or trending issues such as AML, culture and ethics. To book a training session or for more details kindly contact us today.</div>
+																			We provide financial advisory and consultancy services to individuals, organizations, and businesses which are looking to grow and nurture their business. We deliver our services to international levels and standards through a friendly, accessible, and involved team. Some of the major services we offer include:<br>
+																			<ul style="padding-left:20px">
+																			<li style="list-style:number;" >Detailed criminal record checks</li>
+																			<li style="list-style:number;" >Forensic Accounting</li>
+																			<li style="list-style:number;" >	Business Advisory,</li>
+																			<li style="list-style:number;" >	Book-keeping,</li>
+																			<li style="list-style:number;" >	Management accounts,</li>
+																			<li style="list-style:number;" >	Accounts outsourcing,</li>
+																			<li style="list-style:number;" >	Budgeting and forecasts,</li>
+																			<li style="list-style:number;" >	Reporting on accounting systems and internal controls,</li>
+																			<li style="list-style:number;" >	Payroll, Financial reviews,</li>
+																				<li style="list-style:number;" >Company secretarial services,</li>
+																				<li style="list-style:number;" >VAT & Tax returns</li>
+																				<li style="list-style:number;" >Merger and Acquisitions.</li>
+																			</ul>
+																			<br>
+																			Our approach is customized to meet the unique needs of different clients through extensive understanding and planning of the client’s requirements. We work closely with the client to ensure that the solutions proposed are compatible with their objectives and fit their budget.<br>	
+																			</p>
+																			</div>
 												</div>
 											</div>
-
-												
                                             
 
                                              
@@ -64,7 +78,7 @@
 									<div class="tg-widget tg-widgetdepartments">
 										<div class="tg-widgettitle"><h3>Services</h3></div>
 										<div class="tg-widgetcontent">
-												<ul>
+											<ul>
 												<li><a href="{{route('risk.regulations')}}">Regulatory Governance , Risk , Compliance (GRC) and Financial Crime Prevention</a></li>
 												<li><a href="{{route('vetting.screening')}}">Background Check, Vetting & Screening</a></li>
 												<li><a href="{{route('tax.advisory')}}">Financial Accounting, Audit & Tax Advisory</a></li>
@@ -73,7 +87,7 @@
 												<li><a href="{{route('solution.delivery')}}">Managed Shared Services and Solution Delivery</a></li>
 												<li><a href="{{route('fca.authorization')}}">Regulatory Authorization and Approval Advisory</a></li>
 												<li><a href="{{route('documentation.manuals')}}">Documentation – Manuals</a></li>
-												</ul>
+											</ul>
 										</div>
 									</div>
 								</aside>

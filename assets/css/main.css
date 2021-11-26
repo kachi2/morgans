@@ -892,7 +892,7 @@ body.tg-fixednav .tg-navigation > ul > li{ padding:0 0 25px;}
 	left:0;
 	margin:0;
 	opacity:0;
-	width:230px;
+	width:430px;
 	background:#fff;
 	border-radius:3px;
 	position:absolute;
@@ -2312,11 +2312,11 @@ body.tg-fixednav .tg-boxedversion .tg-navigation > ul > li > a,
 	float:left;
 	list-style-type:none;
 }
-.tg-whatwedo ul li + li{
+/* .tg-whatwedo ul li + li{
 	margin:30px 0 0;
 	padding:30px 0 0;
 	border-top:1px solid #ddd;
-}
+} */
 .tg-whatwedoicon{
 	width:40px;
 	height:40px;

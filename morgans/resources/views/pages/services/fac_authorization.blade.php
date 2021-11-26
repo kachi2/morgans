@@ -12,7 +12,7 @@
 							</div>
 							<ol class="tg-breadcrumb">
 								<li><a href="#"><i class="fa fa-home"></i></a></li>
-								<li class="tg-active">TMC Academy</li>
+								<li class="tg-active">Regulatory Authorization and Approval Advisory</li>
 							</ol>
 						</div>
 					</div>
@@ -40,21 +40,25 @@
 											<div class="tg-whatwedo">
 												<div class="tg-sectionhead">
 													<div class="tg-sectiontitle">
-														<h2 style="font-weight:bold; color:#000">TMC Academy</h2>	
+														<h2 style="font-weight:bold; color:#000">Regulatory Authorization and Approval Advisory</h2>	
 													</div>
 													<div class="tg-description" style="text-align:justify">
 														<p style="text-align:justify"> 
-														We offer masterclass series and introductory training courses to employees and professionals in order to help them acquire a basic understanding of the benefits, functions, and impacts of their specialized roles within an organization. This training provides a comprehensive business analysis process as it is applied throughout a project as well as the pre-project activities which comprise of strategy analysis. Employees are able to learn how a business analyst supports the project throughout the solution development cycle. This process entails defining business needs and solution scope which are essential in validating that requirements have been met in the testing phase and ensuring that the solution continues to provide value after implementation.
-
-														In accordance with FCA regulations, staff and management training on compliance is a key requirement. TMC provides you with access to bespoke classroom training and workshops. We offer high-level and in-depth training experience which covers changes in regulation, or trending issues such as AML, culture and ethics. To book a training session or for more details kindly contact us today.</div>
+														Quality advice and assistance at all stages of the authorization process, which includes preparation, filing and ongoing conduct of the application.
+														Our Expertise and Services also include:
+														<ul style="padding-left:20px">
+														<li style="list-style:circle">Advising you on the FCA Regulated activities for which you will need permission</li>
+													<li style="list-style:circle">	Advising you on the different FCA Regulatory and competency requirements</li>
+														<li style="list-style:circle">Assisting you in the preparation of your Regulatory Business Plan</li>
+														<li style="list-style:circle">Assisting in the completion of the necessary forms, including ownership disclosure forms and FCA Approved Persons Forms</li>
+														<li style="list-style:circle">Advice on corporate governance, systems and controls</li>
+														<li style="list-style:circle">Preparation support for meetings with the FCA</li>
+														<li style="list-style:circle">Liaising with your other advisers and with the FCA</li>
+														</ul>
+													</p></div>
 												</div>
 											</div>
-
-												
-                                            
-
-                                             
-										</div>
+											</div>
 									</section>
 									
 								</div>
