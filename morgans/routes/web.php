@@ -27,6 +27,7 @@ Route::get('/about/company', [PageController::class, 'Company'])->name('the.comp
 Route::get('/about/location', [PageController::class, 'Location'])->name('location');
 Route::get('/about/privacy-policy', [PageController::class, 'Privacy'])->name('privacy');
 Route::get('/about/our-team', [PageController::class, 'Team'])->name('team');
+Route::get('/about/contact-us', [PageController::class, 'Contact'])->name('contact');
 
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {

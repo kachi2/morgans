@@ -55,6 +55,7 @@
 							</ul>
 							<nav class="tg-addnav tg-themecolor">
 								<ul>
+									<li><a href="https://portrec.co.uk">Privacy Policy</a></li>
 									<li><a href="https://portrec.co.uk">careers</a></li>
 									<li><a href="#">Contact</a></li>
 								</ul>
@@ -108,15 +109,10 @@
 												</ul>
 										</li>
 										<li class="">
-											<a href="#">Clients</a>
+												<li><a href="{{route('team')}}">Our Team</a></li>
 										</li>
-										<li class="">
-											<a href="#">Our Team</a>
-										</li>
-										<li><a href="#">Contact Us</a></li>
-										<li class="">
-											<a href="#">News</a>
-										</li>
+										<li><a href="{{route('contact')}}">Contact Us</a></li>
+										
 									</ul>
 								</div>
 							</nav>
@@ -190,11 +186,12 @@
 								<div class="tg-widget tg-widgetusefulllinks">
 									<div class="tg-widgettitle"><h3>useful links</h3></div>
 									<ul>
-										<li><a href="#">Home</a></li>
-										<li><a href="#">About Us</a></li>
-										<li><a href="#">Services</a></li>
-										<li><a href="#">Clients</a></li>
-										<li><a href="#">Contact Us</a></li>
+										<li><a href="{{route('index')}}">Home</a></li>
+								    	<li><a href="{{route('the.company')}}">The Company</a></li>
+										<li><a href="{{route('location')}}">Location</a></li>
+										<li><a href="{{route('privacy')}}">Privacy Policy</a></li>
+										<li><a href="{{route('team')}}">Our Team</a></li>
+										<li><a href="{{route('contact')}}">Contact Us</a></li>
 									</ul>
 								</div>
 							</div>

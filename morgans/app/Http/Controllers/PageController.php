@@ -54,4 +54,8 @@ class PageController extends Controller
     public function Team(){
         return view('pages.about.team');
     }
+
+    public function Contact(){
+        return view('pages.contact');
+    }
 }
