@@ -248,10 +248,10 @@ General Consulting Competitive Advantage Solutions</a></h4>
 							<figure>
 								<img src="images/img-01.jpg" alt="image description">
 								<figcaption>
-									<a class="tg-btnplay" href="https://www.youtube.com/watch?v=TpMJ2XlzO-0" data-rel="prettyPhoto[iframe]">
+									<a class="tg-btnplay" href="https://www.youtube.com/watch?v=#" data-rel="prettyPhoto[iframe]">
 										<i class="fa fa-play"></i>
 									</a>
-									<h2>our business Introduction</h2>
+									<h2>Our business Introduction</h2>
 								</figcaption>
 							</figure>
 						</div>
