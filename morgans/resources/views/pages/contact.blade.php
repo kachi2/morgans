@@ -43,7 +43,7 @@
 								</div>
 							</div>
 						</div>
-						<form class="tg-themeform">
+						<form class="tg-themeform" action="">
 							<fieldset>
 								<div class="col-sm-4">
 									<div class="form-group">

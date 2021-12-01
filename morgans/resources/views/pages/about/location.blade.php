@@ -40,20 +40,16 @@
 											<div class="tg-whatwedo">
 												<div class="tg-sectionhead">
 													<div class="tg-sectiontitle">
-														<h2 style="font-weight:bold; color:#000">Regulatory Authorization and Approval Advisory</h2>	
+														<h2 style="font-weight:bold; color:#000">Our Location</h2>	
 													</div>
 													<div class="tg-description" style="text-align:justify">
-														<p style="text-align:justify"> 
-														Quality advice and assistance at all stages of the authorization process, which includes preparation, filing and ongoing conduct of the application.
-														Our Expertise and Services also include:
-														<ul style="padding-left:20px">
-														<li style="list-style:circle">Advising you on the FCA Regulated activities for which you will need permission</li>
-													<li style="list-style:circle">	Advising you on the different FCA Regulatory and competency requirements</li>
-														<li style="list-style:circle">Assisting you in the preparation of your Regulatory Business Plan</li>
-														<li style="list-style:circle">Assisting in the completion of the necessary forms, including ownership disclosure forms and FCA Approved Persons Forms</li>
-														<li style="list-style:circle">Advice on corporate governance, systems and controls</li>
-														<li style="list-style:circle">Preparation support for meetings with the FCA</li>
-														<li style="list-style:circle">Liaising with your other advisers and with the FCA</li>
+														<p style="text-align:justify"> <ul style="padding-left:20px">
+                                                       <li style="list-style:circle"><b>Address:</b> 2nd Floor, 1 Adeola Adeoye Street,Toyin Street,Ikeja, Lagos Nigeria</li>
+                                                        <li style="list-style:circle"><b>Office Hours : </b> Monday – Friday ( 09:00 am – 18:00pm )</li>
+                                                        
+                                                         <li style="list-style:circle">   <b> Closed on :  </b>Saturday & Sundays</li>
+
+                                                          <li style="list-style:circle"> <b> For urgent esquires please email : </b> Enquiries@morgansconsortium.com</li>
 														</ul>
 													</p></div>
 												</div>
