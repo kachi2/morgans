@@ -3,15 +3,15 @@
 @section('content')
 		<div id="tg-homeslider" class="tg-homeslider tg-haslayout">
 			<figure class="item">
-				<img src="{{asset('/assets/images/slider/img-01.jpg')}}" alt="image description">
+				<img src="{{asset('/assets/images/image2.jpg')}}" alt="image description">
 				<figcaption>
-					<div class="container">
+					<div class="container" >
 						<div class="row">
 							<div class="col-md-7 col-sm-10 col-xs-12 pull-right">
 								<h1>Business Consultancy</h1>
 								<h2>guaranteed</h2>
 								<img class="tg-svginject" src="{{asset('/assets/images/img-01.svg')}}" alt="image description">
-								<div class="tg-description">
+								<div class="tg-description" >
 									<p>Business we operate in is like an intricate game of strategy and chess, where every move counts and you keep score with money.</p>
 								</div>
 							</div>
@@ -20,7 +20,7 @@
 				</figcaption>
 			</figure>
 			<figure class="item">
-				<img src="{{asset('/assets/images/slider/img-01.jpg')}}" alt="image description">
+				<img src="{{asset('/assets/images/image3.jpg')}}" alt="image description">
 				<figcaption>
 					<div class="container">
 						<div class="row">
@@ -37,7 +37,7 @@
 				</figcaption>
 			</figure>
 			<figure class="item">
-				<img src="{{asset('/assets/images/slider/img-01.jpg')}}" alt="image description">
+				<img src="{{asset('/assets/images/image4.jpg')}}" alt="image description">
 				<figcaption>
 					<div class="container">
 						<div class="row">
