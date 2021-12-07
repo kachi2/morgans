@@ -55,7 +55,7 @@
 							</ul>
 							<nav class="tg-addnav tg-themecolor">
 								<ul>
-									<li><a href="https://portrec.co.uk">Privacy Policy</a></li>
+									<li><a href="{{route('privacy')}}">Privacy Policy</a></li>
 									<li><a href="https://portrec.co.uk">careers</a></li>
 									<li><a href="#">Contact</a></li>
 								</ul>
