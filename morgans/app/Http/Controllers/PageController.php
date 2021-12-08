@@ -2,6 +2,10 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\ContactForm;
+use Illuminate\Mail\Mailable;
+use Illuminate\Support\Facades\Mail;
+use App\Mail\ContactMail;
 use Illuminate\Http\Request;
 
 class PageController extends Controller
@@ -57,5 +61,24 @@ class PageController extends Controller
 
     public function Contact(){
         return view('pages.contact');
+    }
+
+    public function contactForm(Request $request){
+        $form = new ContactForm;
+        $form->name = $request->name;
+        $form->email = $request->email;
+        $form->phone = $request->phone;
+        $form->message = $request->message;
+       // $form->save();
+
+        $data = [
+            'name' => $request->name,
+            'email' => $request->email,
+            'phone' => $request->phone,
+            'message' => $request->message
+        ];
+
+        mail::to('support@morgansconsulting.ng')->send(new ContactMail($data));
+        return redirect()->back()->with('success', 'Message send successfully');
     }
 }

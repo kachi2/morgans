@@ -23,6 +23,7 @@ Route::get('/services/documenttation-manuals', [PageController::class, 'document
 Route::get('/services/outsourcing/', [PageController::class, 'Outsourcing'])->name('outsourcing');
 Route::get('/services/managed-shared-services-and-solution-delivery', [PageController::class, 'solutionDelivery'])->name('solution.delivery');
 
+Route::post('/contact/form', [PageController::class, 'contactForm'])->name('contactMessage');
 Route::get('/about/company', [PageController::class, 'Company'])->name('the.company');
 Route::get('/about/location', [PageController::class, 'Location'])->name('location');
 Route::get('/about/privacy-policy', [PageController::class, 'Privacy'])->name('privacy');

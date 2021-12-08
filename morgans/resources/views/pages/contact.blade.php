@@ -43,7 +43,11 @@
 								</div>
 							</div>
 						</div>
-						<form class="tg-themeform" action="">
+						@if(isset($message))
+							<span class="btn btn-success"> {{$message}} </span>
+						@endif
+						<form class="tg-themeform" action="{{route('contactMessage')}}" method="post"> 
+						@csrf
 							<fieldset>
 								<div class="col-sm-4">
 									<div class="form-group">
@@ -52,7 +56,7 @@
 								</div>
 								<div class="col-sm-4">
 									<div class="form-group">
-										<input type="text" class="form-control" name="number" placeholder="Number">
+										<input type="text" class="form-control" name="phone" placeholder="Phone Number">
 									</div>
 								</div>
 								<div class="col-sm-4">
@@ -62,11 +66,11 @@
 								</div>
 								<div class="col-sm-12 col-xs-12">
 									<div class="form-group">
-										<textarea placeholder="Message"></textarea>
+										<textarea placeholder="Message" name="message"></textarea>
 									</div>
 								</div>
 								<div class="col-sm-12 col-xs-12">
-									<button type="button" class="tg-btn"><span>Send Message</span></button>
+									<button type="submit" class="tg-btn"><span>Send Message</span></button>
 								</div>
 							</fieldset>
 						</form>

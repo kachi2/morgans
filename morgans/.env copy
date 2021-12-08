@@ -1,3 +1,11 @@
+
+RewriteEngine On 
+RewriteCond %{HTTPS} off 
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+
+
+
 APP_NAME=Morgans
 APP_ENV=local
 APP_KEY=base64:KTnuyJbqv8QxBgD0aKbKVW4kpIetPeD6zwaUhR3FxGQ=
@@ -11,9 +19,9 @@ LOG_LEVEL=debug
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=morgans
-DB_USERNAME=root
-DB_PASSWORD=
+DB_DATABASE=morgaps7_morgans
+DB_USERNAME=morgaps7_michael
+DB_PASSWORD=U&70D&G93ugJ
 
 BROADCAST_DRIVER=log
 CACHE_DRIVER=file

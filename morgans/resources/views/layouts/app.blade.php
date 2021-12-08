@@ -4,10 +4,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="csrf-token" content="{{ csrf_token() }}">
-
         <title>Morgans Consulting</title>
         <link rel="shortcut icon" href="{{asset('/assets/images/favicon.png')}}">
-
         <!-- Fonts -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,11 +23,7 @@
 	<link rel="stylesheet" href="{{asset('/assets/css/responsive.css')}}">
 	<script src="{{asset('/assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js')}}"></script>
 </head>
-
 <body class="tg-home tg-homeversion">
-	<!--[if lt IE 8]>
-		<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-	<![endif]-->
 	<!--************************************
 			Wrapper Start
 	*************************************-->
@@ -111,8 +105,7 @@
 										<li class="">
 												<li><a href="{{route('team')}}">Our Team</a></li>
 										</li>
-										<li><a href="{{route('contact')}}">Contact Us</a></li>
-										
+										<li><a href="{{route('contact')}}">Contact Us</a></li>	
 									</ul>
 								</div>
 							</nav>
@@ -121,7 +114,6 @@
 				</div>
 			</div>
 		</header>
-
 @yield('content')
         <footer id="tg-footer" class="tg-footer tg-haslayout">
 			<div class="tg-footertopbar tg-bglight tg-bgimage tg-shadow">
@@ -177,7 +169,7 @@
 										</li>
 										<li>
 											<i class="fa fa-phone"></i>
-											<span>+44 123 456 788 - 9</span>
+											<span>234 (1) 700-1770, 234 (0) 915-341-4314</span>
 										</li>
 									</ul>
 								</div>

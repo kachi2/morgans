@@ -146,22 +146,24 @@
 									</div>
 								</div>
 							</div>
-   <div class="col-md-3 col-sm-6 col-xs-6">
+      
+
+                               <div class="col-md-3 col-sm-6 col-xs-6">
 								<div class="tg-member">
 									<figure>
-										<img src="{{asset('/assets/images/paul.jpeg')}}" alt="image description">
+										<img src="{{asset('/assets/images/ibi.jpeg')}}" alt="image description">
 										<figcaption>
 											<ul class="tg-socialprofilelinks">
-												<li><a href="https://www.linkedin.com/in/paul-obeya-aba-700933150/"><i class="fa fa-linkedin"></i></a></li>
+												<li><a href="https://www.linkedin.com/in/yemi-omotoyo-akano-b4890634/"><i class="fa fa-linkedin"></i></a></li>
 											</ul>
 										</figcaption>
 									</figure>
 									<div class="tg-memberinfo">
 										<div class="tg-membername">
-											<h4><a href="#">Paul Obeya</a></h4>
+											<h4><a href="#">Ibiyemi Akano</a></h4>
 										</div>
 										<div class="tg-memberdesignation">
-											<span><a href="#">Business Development Executive</a></span>
+											<span><a href="#">Customer Service Executive</a></span>
 										</div>
 									</div>
 								</div>
@@ -247,7 +249,73 @@
 									</div>
 								</div>
 							</div>
-                               <div class="col-md-3 col-sm-6 col-xs-6">
+                              
+
+                          
+
+							    <div class="col-md-3 col-sm-6 col-xs-6">
+								<div class="tg-member">
+									<figure>
+										<img src="{{asset('/assets/images/imag.png')}}" alt="image description">
+										<figcaption>
+											<ul class="tg-socialprofilelinks">
+												<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+											</ul>
+										</figcaption>
+									</figure>
+									<div class="tg-memberinfo">
+										<div class="tg-membername">
+											<h4><a href="#">Taiwo Samuel</a></h4>
+										</div>
+										<div class="tg-memberdesignation">
+											<span><a href="#"> Partner, Financial Crime Risk Compliance Advisory  </a></span>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="col-md-3 col-sm-6 col-xs-6">
+								<div class="tg-member">
+									<figure>
+										<img src="{{asset('/assets/images/akin.jpg')}}" alt="image description">
+										<figcaption>
+											<ul class="tg-socialprofilelinks">
+												<li><a href="https://www.linkedin.com/in/abdulrahman-akanbi-034ba0142/"><i class="fa fa-linkedin"></i></a></li>
+											</ul>
+										</figcaption>
+									</figure>
+									<div class="tg-memberinfo">
+										<div class="tg-membername">
+											<h4><a href="#">Abdulrahman Akanbi</a></h4>
+										</div>
+										<div class="tg-memberdesignation">
+											<span><a href="#"> Partner, IT Security & Cyber Advisory   </a></span>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-3 col-sm-6 col-xs-6">
+								<div class="tg-member">
+									<figure>
+										<img src="{{asset('/assets/images/imag.png')}}" alt="image description">
+										<figcaption>
+											<ul class="tg-socialprofilelinks">
+												<li><a href="https://www.linkedin.com/in/jelili-ade-adebisi-a1a59929/"><i class="fa fa-linkedin"></i></a></li>
+											</ul>
+										</figcaption>
+									</figure>
+									<div class="tg-memberinfo">
+										<div class="tg-membername">
+											<h4><a href="#">Adebisi Jelili</a></h4>
+										</div>
+										<div class="tg-memberdesignation">
+											<span><a href="#">  Independent Advisory Head</a></span>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							 <div class="col-md-3 col-sm-6 col-xs-6">
 								<div class="tg-member">
 									<figure>
 										<img src="{{asset('/assets/images/olu.jpeg')}}" alt="image description">
@@ -263,29 +331,6 @@
 										</div>
 										<div class="tg-memberdesignation">
 											<span><a href="#">Senior Consultant, Governance, Risk & Compliance (GRC) and Financial Crime Prevention Advisory.</a></span>
-										</div>
-									</div>
-								</div>
-							</div>
-
-                              
-
-                               <div class="col-md-3 col-sm-6 col-xs-6">
-								<div class="tg-member">
-									<figure>
-										<img src="{{asset('/assets/images/ibi.jpeg')}}" alt="image description">
-										<figcaption>
-											<ul class="tg-socialprofilelinks">
-												<li><a href="https://www.linkedin.com/in/yemi-omotoyo-akano-b4890634/"><i class="fa fa-linkedin"></i></a></li>
-											</ul>
-										</figcaption>
-									</figure>
-									<div class="tg-memberinfo">
-										<div class="tg-membername">
-											<h4><a href="#">Ibiyemi Akano</a></h4>
-										</div>
-										<div class="tg-memberdesignation">
-											<span><a href="#">Customer Service Executive</a></span>
 										</div>
 									</div>
 								</div>
