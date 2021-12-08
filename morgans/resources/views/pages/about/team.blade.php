@@ -67,7 +67,7 @@
                                                  <div class="col-md-3 col-sm-6 col-xs-6">
 								<div class="tg-member">
 									<figure>
-										<img src="{{asset('/assets/images/alaba.jpg')}}" height="200px" width="200px" alt="image description">
+										<img src="{{asset('/assets/images/img.png')}}" height="200px" width="200px" alt="image description">
 										<figcaption>
 											<ul class="tg-socialprofilelinks">
 												<li><a href="https://www.linkedin.com/in/mcpn-alaba-durojaiye-citp-89653b6b/"><i class="fa fa-linkedin"></i></a></li>
