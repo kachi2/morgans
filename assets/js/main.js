@@ -1,5 +1,5 @@
 (function($){
-	"use strict";
+	//"use strict";
 	/* -------------------------------------
 			CUSTOM FUNCTION WRITE HERE
 	-------------------------------------- */
