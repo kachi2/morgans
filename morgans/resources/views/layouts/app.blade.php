@@ -21,6 +21,7 @@
 	<link rel="stylesheet" href="{{asset('/assets/css/main.css')}}">
 	<link rel="stylesheet" href="{{asset('/assets/css/color.css')}}">
 	<link rel="stylesheet" href="{{asset('/assets/css/responsive.css')}}">
+	<script src="{{asset('/assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js')}}"></script>
 </head>
 <body class="tg-home tg-homeversion">
 	<!--************************************
@@ -221,19 +222,18 @@
 	<!--************************************
 			Wrapper End
 	*************************************-->
-	<script src="http://morgansconsulting.ng/assets/js/vendor/jquery-library.js"></script>
-	<script src="http://morgansconsulting.ng/'/assets/js/vendor/bootstrap.min.js"></script>
-	<script src="http://morgansconsulting.ng/assets/js/owl.carousel.min.js"></script>
-	<script src="http://morgansconsulting.ng/assets/js/jquery.svgInject.js"></script>
-	<script src="http://morgansconsulting.ng/assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-	<script src="http://morgansconsulting.ng/assets/js/isotope.pkgd.js"></script>
-	<script src="http://morgansconsulting.ng/assets/js/chartsloader.js"></script>
-	<script src="http://morgansconsulting.ng/assets/js/prettyPhoto.js"></script>
-	<script src="http://morgansconsulting.ng/assets/js/parallax.js"></script>
-	<script src="http://morgansconsulting.ng/assets/js/countTo.js"></script>
-	<script src="http://morgansconsulting.ng/assets/js/appear.js"></script>
-	<script src="http://morgansconsulting.ng/assets/js/gmap3.js"></script>
+	<script src="{{asset('/assets/js/vendor/jquery-library.js')}}"></script>
+	<script src="{{asset('/assets/js/vendor/bootstrap.min.js')}}"></script>
 	<script src="http://maps.google.com/maps/api/js?key=AIzaSyCR-KEWAVCn52mSdeVeTqZjtqbmVJyfSus&amp;language=en"></script>
-	<script src="http://morgansconsulting.ng/assets/js/main.js"></script>
+	<script src="{{asset('/assets/js/owl.carousel.min.js')}}"></script>
+	<script src="{{asset('/assets/js/jquery.svgInject.js')}}"></script>
+	<script src="{{asset('/assets/js/isotope.pkgd.js')}}"></script>
+	<script src="{{asset('/assets/js/chartsloader.js')}}"></script>
+	<script src="{{asset('/assets/js/prettyPhoto.js')}}"></script>
+	<script src="{{asset('/assets/js/parallax.js')}}"></script>
+	<script src="{{asset('/assets/js/countTo.js')}}"></script>
+	<script src="{{asset('/assets/js/appear.js')}}"></script>
+	<script src="{{asset('/assets/js/gmap3.js')}}"></script>
+	<script src="{{asset('/assets/js/main.js')}}"></script>
 </body>
 </html>
