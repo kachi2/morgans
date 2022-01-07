@@ -188,12 +188,17 @@
 								</div>
 							</div>
 							<div class="col-md-4 col-sm-6 col-xs-6">
-								<div class="tg-widget tg-widgetflicker">
-									<div class="tg-widgettitle"><h3>Social Widget</h3></div>
+									<div class="tg-widget tg-widgetusefulllinks">
+									<div class="tg-widgettitle"><h3>Our Services</h3></div>
 									<ul>
-										<li><figure><a href="#"><img src="{{asset('/assets/images/thumbs/img-03.jpg')}}" alt="image description"></a></figure></li>
-										<li><figure><a href="#"><img src="{{asset('/assets/images/thumbs/img-04.jpg')}}" alt="image description"></a></figure></li>
-										<li><figure><a href="#"><img src="{{asset('/assets/images/thumbs/img-05.jpg')}}" alt="image description"></a></figure></li>
+											<li><a href="{{route('risk.regulations')}}">Regulatory Governance , Risk , Compliance (GRC) and Financial Crime Prevention</a></li>
+												<li><a href="{{route('vetting.screening')}}">Background Check, Vetting & Screening</a></li>
+												<li><a href="{{route('tax.advisory')}}">Financial Accounting, Audit & Tax Advisory</a></li>
+												<li><a href="{{route('outsourcing')}}">Outsourcing</a></li>
+												<li><a href="{{route('tmc.academy')}}">TMC Academy</a></li>
+												<li><a href="{{route('solution.delivery')}}">Managed Shared Services and Solution Delivery</a></li>
+												<li><a href="{{route('fca.authorization')}}">Regulatory Authorization and Approval Advisory</a></li>
+												<li><a href="{{route('documentation.manuals')}}">Documentation – Manuals</a></li>
 									</ul>
 								</div>
 							</div>

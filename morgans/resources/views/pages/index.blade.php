@@ -281,7 +281,7 @@ General Consulting Competitive Advantage Solutions</a></h4>
 			</section>
 	
 		
-			<section class="tg-main-section tg-haslayout">
+			{{-- <section class="tg-main-section tg-haslayout">
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-offset-2 col-lg-8 col-md-offset-1 col-md-10 col-sm-offset-0 col-sm-12 col-xs-12">
@@ -319,7 +319,7 @@ General Consulting Competitive Advantage Solutions</a></h4>
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> --}}
 		</main>
 	</div>
 
