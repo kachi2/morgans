@@ -191,7 +191,7 @@
 									<div class="tg-widget tg-widgetusefulllinks">
 									<div class="tg-widgettitle"><h3>Our Services</h3></div>
 									<ul>
-											<li><a href="{{route('risk.regulations')}}">Regulatory Governance , Risk , Compliance (GRC) and Financial Crime Prevention</a></li>
+										     	<li><a href="{{route('risk.regulations')}}">Regulatory Governance , Risk , Compliance (GRC) and Financial Crime Prevention</a></li>
 												<li><a href="{{route('vetting.screening')}}">Background Check, Vetting & Screening</a></li>
 												<li><a href="{{route('tax.advisory')}}">Financial Accounting, Audit & Tax Advisory</a></li>
 												<li><a href="{{route('outsourcing')}}">Outsourcing</a></li>
